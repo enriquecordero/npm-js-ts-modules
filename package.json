@@ -1,0 +1,23 @@
+{
+  "name": "npm-js-ts-modules",
+  "version": "1.0.0",
+  "description": "Modulo Node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enriquecordero/npm-js-ts-modules.git"
+  },
+  "keywords": [
+    "npm",
+    "nodejs"
+  ],
+  "author": "Enrique Cordero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enriquecordero/npm-js-ts-modules/issues"
+  },
+  "homepage": "https://github.com/enriquecordero/npm-js-ts-modules#readme"
+}
